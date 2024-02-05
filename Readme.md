@@ -1,4 +1,5 @@
 # Glucontrol_App 📈
+
 ![Logo Glucontrol_App](./images/logo.png)
 
 Glucontrol_App es una aplicación avanzada diseñada para facilitar la gestión y el seguimiento de la diabetes. Este proyecto es el resultado de una formación impartida por Inserta Arelance, combinando conocimientos teóricos y prácticos para desarrollar una solución tecnológica integral y accesible para pacientes con diabetes y profesionales de la salud.
@@ -40,7 +41,6 @@ El proyecto está estructurado en múltiples capas, incluyendo:
 - **Interfaces y Repositorios**: Abstraen el acceso a la base de datos, permitiendo una mayor flexibilidad y mantenibilidad del código.
 
 Este enfoque modular y basado en capas facilita el mantenimiento y la escalabilidad del proyecto, permitiendo la evolución continua del backend para satisfacer las necesidades cambiantes de los usuarios y las mejores prácticas en el desarrollo de software.
-
 
 ### 🚀 Instrucciones de Instalación
 
@@ -90,8 +90,10 @@ El frontend de **DiabetesNoteBook** ofrece una experiencia de usuario rica e int
 ### 🚀 Instrucciones de Instalación
 
 1. Navega al directorio del frontend.
-2. Ejecuta `npm install` y `ng serve`.
-3. Accede a `http://localhost:4200`.
+2. En el backend hacer el scaffold para que se conecte con tu base de datos Scaffold-DbContext "Data Source=DESKTOP-2TL9C3O\SQLEXPRESS;Initial Catalog=DiabetesNoteBook;Integrated Security=True;TrustServerCertificate=True" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir Domain/Models -force -project DiabetesNoteBook
+3. Donde pone esto DESKTOP-2TL9C3O\SQLEXPRESS cambiarlo por el nombre que sea vuestro equipo para ello abrir base de datos y te lo pone conforme la abres, el scaffold se hace abriendo la consola de administrador de paquetes nuget es copiar pegar y intro
+4. Ejecuta `npm install` y `ng serve`.
+5. Accede a `http://localhost:4200`.
 
 Este proyecto, fruto de la formación de Inserta y Arelance, demuestra el compromiso con la creación de soluciones tecnológicas accesibles y de alto impacto para la sociedad, abordando las necesidades de personas con condiciones crónicas como la diabetes.
 
@@ -104,7 +106,4 @@ Capturas de la aplicacion:
 ![Logo Glucontrol_App](./images/3.png)
 ![Logo Glucontrol_App](./images/4.png)
 
-
 Para más información sobre medicamentos, visita el [Vademécum de la AEMPS](https://cima.aemps.es/cima/publico/nomenclator.html).
-
-
