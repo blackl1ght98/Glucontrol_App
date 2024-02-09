@@ -118,5 +118,6 @@ Capturas de la aplicacion:
 ![Logo Glucontrol_App](./images/2.png)
 ![Logo Glucontrol_App](./images/3.png)
 ![Logo Glucontrol_App](./images/4.png)
-
+## Continuación
+Cuando el proyecto termino decidi continuar por mi propia cuenta haciendo una migracion completa a la versión de Angular 17 aquí dejo el link del repositorio para todos aquellos que quieran verlo <a href="https://github.com/blackl1ght98/Glucontrol_App-AngularV17" target=_blank>Ver Proyecto actualizado</a>
 Para más información sobre medicamentos, visita el [Vademécum de la AEMPS](https://cima.aemps.es/cima/publico/nomenclator.html).
